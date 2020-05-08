@@ -1,1 +1,0 @@
-variable "aws_ami_name" {}
